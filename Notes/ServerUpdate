@@ -1,0 +1,1 @@
+今天服务器上去常规更新，发现nginx restart不了。新版的NGINX已经将ssl on移到server字段了 ```port 886 ssl```
